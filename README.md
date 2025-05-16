@@ -63,5 +63,5 @@ If you opt for a different folder, then be sure to use it in the coming steps in
 ![image](https://github.com/user-attachments/assets/3185f5ad-5d72-4cc6-9b9a-4060f8b12646)
 
 3. Build the solution as normal. 
-4. Don't expect the source to build entirely without errors. A few errors is acceptable. I've had to comment out code to get the build working.
+4. Don't expect the source to build entirely without errors. A few errors are acceptable. I've had to comment out code to get the build working a few times now.
 5. Start debugging. HAVE FUN!
